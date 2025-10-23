@@ -3,7 +3,6 @@
 **Step-by-Step Guide: AWS VPC with Public and Private Subnets**
 
 This guide will help you learn how cloud networking works by walking you through creating a Virtual Private Cloud (VPC) in AWS with both public and private subnets, plus controlled internet access. Each step explains not just "how," but also "why"—so you understand the basics of secure cloud architectures and resource isolation.
----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 1. Login and Open VPC Dashboard
 Sign in to your AWS Management Console.
